@@ -1,4 +1,1 @@
-{
-  "version" => "1.0.1",  # 新版本号
-  "update_path" => "https://github.com/user-attachments/files/19712569/default.zip"
-}
+5.2.8
